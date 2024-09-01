@@ -1,3 +1,9 @@
+# Shadcn-dashboard
+
+Este es un ejercicio bajo la guía del maestro Fernando Herrera dentro del curso gratuito
+de [Shadcn-ui](https://cursos.devtalles.com/courses/shadcn-ui)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +40,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Other resources to check
+
+- [TailwindCSS](https://tailwindcss.com/)
+- [TailwindCSS components](https://www.creative-tim.com/twcomponents/component/tailwind-css-admin-dashboard-layout)
+- [Teacher's custom dashboard](https://gist.github.com/Klerith/3949f1c8b884d7101e378dfb668f0f3a)
